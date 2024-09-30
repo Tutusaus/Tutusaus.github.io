@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "name": "Guillem Tutusaus Alcaraz",
+    "label": "Mathematician",
+    "image": "/assets/img/Orla.jpg",
+    "email": "guillemtutusaus@gmail.com",
+    "phone": "+34 674 29 41 57",
+    "url": "https://tutusaus.github.io/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
