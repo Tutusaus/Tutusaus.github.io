@@ -16,24 +16,39 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "guillemtutusausalcaraz",
+        "url": "https://www.linkedin.com/in/guillemtutusausalcaraz/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Tutusaus",
+        "url": "https://github.com/Tutusaus"
+      },
+      {
+        "network": "Mathematics Stack Exchange",
+        "username": "Tutusaus",
+        "url": "https://math.stackexchange.com/users/758761/tutusaus"
+      },
+      {
+        "network": "Instagram",
+        "username": "gtutusausalcaraz",
+        "url": "https://www.instagram.com/gtutusausalcaraz/"
       }
     ]
   },
   "work": [
     {
-      "name": "Centre Educatiu ONA",
+      "name": "Centre Educatiu ONA, Barberà del Vallès",
       "position": "Private Tutor",
-      "url": "",
+      "url": "https://www.google.com/maps/place/Centre+ONA/@41.5259472,2.1215333,19.92z/data=!4m6!3m5!1s0x12a49577cb14f001:0xa614c7f28487c9c7!8m2!3d41.5259314!4d2.1216585!16s%2Fg%2F11p60v8w2q?entry=ttu&g_ep=EgoyMDI0MDkyNS4wIKXMDSoASAFQAw%3D%3D",
       "startDate": "2023-11",
-      "endDate": "Currently",
+      "endDate": "-",
       "summary": "Part-time professor in Mathematics, Physics and Chemistry on a Baccalaureate level.",
       "highlights": ["Team Builder", "Commited"]
     },
     {
-      "name": "Biotecnal S.A.",
+      "name": "Biotecnal S.A., Sant Quirze del Vallès",
       "position": "Market Research Analyst",
       "url": "https://biotecnal.com/",
       "startDate": "2023-08",
@@ -42,7 +57,7 @@
       "highlights": ["IBM SPSS", "MS Excel", "R"]
     },
     {
-      "name": "Professors Particulars DAFME, Polytechnic University of Catalonia",
+      "name": "Professors Particulars DAFME, Polytechnic University of Catalonia, On-site",
       "position": "Private Tutor",
       "url": "https://sso.upc.edu/CAS//login?idApp=genweb&service=https://dafme.upc.edu/ca/classes-particulars",
       "startDate": "2018-10",
@@ -53,7 +68,17 @@
   ],
   "volunteer": [
     {
-      "organization": "International Council for Industrial and Applied Mathematics (ICIAM)",
+      "organization": "Fundació Parc Aeronàutic de Catalunya",
+      "location": "Sabadell, Spain",
+      "position": "Aviation Exhibit Guide",
+      "url": "https://www.fpac.org/fpac/",
+      "startDate": "2024-10-30",
+      "endDate": "-",
+      "summary": "Responsible for providing visitors with informative and engaging tours of the airport's aviation-themed exhibition. Explain the history, technology, and significance of the planes on display, answer questions, and offer insights into the evolution of aviation.",
+      "highlights": ["Aviation", "Aeronautics"]
+    },
+    {
+      "organization": "International Council for Industrial and Applied Mathematics",
       "location": "Valencia, Spain",
       "position": "Lecture Coordinator",
       "url": "https://iciam.org/",
@@ -66,7 +91,7 @@
   "education": [
     {
       "institution": "Universitat Autònoma de Barcelona, Cerdanyola del Vallès, Spain",
-      "location": "Cerdanyola del Vallès, Spain",
+      "location": "Cerdanyola, Spain",
       "url": "https://www.uab.cat/",
       "area": "Mathematics",
       "studyType": "Bachelor's degree",
@@ -74,15 +99,6 @@
       "endDate": "2024-07",
       "score": "7",
       "courses": ["Stochastic Processes", "Financial Engineering", "Fluid Dynamics", "Programming"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
   "certificates": [
@@ -94,48 +110,48 @@
       "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Advanced English C1",
+      "name": "Cambridge Assessment English Advanced C1",
       "date": "2019-02-01",
       "issuer": "Cambridge University",
       "url": "https://www.cambridgeenglish.org/why-choose-us/higher-education-institutions/how-to-verify-results-online/",
-      "icon": "fa-solid fa-tag"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Soft Skills",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-brands fa-uncharted",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Resourcefull",
+        "Team Builder",
+        "Innovative",
+        "Curious",
+        "Commited",
+        "Persistent",
+        "Competitive",
+        "Ambitious",
+        "Open-minded",
+        "Responsible",
+        "Problem-solving"
+      ]
+    },
+    {
+      "name": "Hard Skills",
+      "level": "Master",
+      "icon": "fa-brands fa-uncharted",
+      "keywords": [
+        "Resourcefull",
+        "Team Builder",
+        "Innovative",
+        "Curious",
+        "Commited",
+        "Persistent",
+        "Competitive",
+        "Ambitious",
+        "Open-minded",
+        "Responsible",
+        "Problem-solving"
       ]
     }
   ],
@@ -143,7 +159,7 @@
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
+      "icon": "fa-solid fa-language"
     },
     {
       "language": "Spanish",
