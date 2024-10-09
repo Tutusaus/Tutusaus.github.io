@@ -39,25 +39,28 @@
   },
   "work": [
     {
-      "name": "Centre Educatiu ONA, Barberà del Vallès",
-      "position": "Private Tutor",
+      "name": "Centre Educatiu ONA",
+      "location": "Barberà del Vallès",
+      "position": "Professor",
       "url": "https://www.google.com/maps/place/Centre+ONA/@41.5259472,2.1215333,19.92z/data=!4m6!3m5!1s0x12a49577cb14f001:0xa614c7f28487c9c7!8m2!3d41.5259314!4d2.1216585!16s%2Fg%2F11p60v8w2q?entry=ttu&g_ep=EgoyMDI0MDkyNS4wIKXMDSoASAFQAw%3D%3D",
       "startDate": "2023-11",
       "endDate": "-",
-      "summary": "Part-time professor in Mathematics, Physics and Chemistry on a Baccalaureate level.",
+      "summary": "Professor in Mathematics, Physics and Chemistry on a Baccalaureate level.",
       "highlights": ["Team Builder", "Commited"]
     },
     {
-      "name": "Biotecnal S.A., Sant Quirze del Vallès",
+      "name": "Biotecnal S.A.",
+      "location": "Sant Quirze del Vallès",
       "position": "Market Research Analyst",
       "url": "https://biotecnal.com/",
       "startDate": "2023-08",
       "endDate": "2023-11",
-      "summary": "Studied consumer behavior, designing and controlling all kinds of products, allowed to respond to the demands of the market in front of consumers, manufacturers and distributors. Used IBM SPSS as well as MS Excel and R to make inference on data using diferent statistical tests.",
+      "summary": "As part of my university internship. Studied consumer behavior, designing and controlling all kinds of products, allowed to respond to the demands of the market in front of consumers, manufacturers and distributors. Used IBM SPSS as well as MS Excel and R to make inference on data using diferent statistical tests.",
       "highlights": ["IBM SPSS", "MS Excel", "R"]
     },
     {
-      "name": "Professors Particulars DAFME, Polytechnic University of Catalonia, On-site",
+      "name": "Professors Particulars DAFME, Polytechnic University of Catalonia",
+      "location": "On-site",
       "position": "Private Tutor",
       "url": "https://sso.upc.edu/CAS//login?idApp=genweb&service=https://dafme.upc.edu/ca/classes-particulars",
       "startDate": "2018-10",
@@ -90,8 +93,8 @@
   ],
   "education": [
     {
-      "institution": "Universitat Autònoma de Barcelona, Cerdanyola del Vallès, Spain",
-      "location": "Cerdanyola, Spain",
+      "institution": "Universitat Autònoma de Barcelona",
+      "location": "Cerdanyola del Vallès",
       "url": "https://www.uab.cat/",
       "area": "Mathematics",
       "studyType": "Bachelor's degree",
@@ -120,7 +123,6 @@
   "skills": [
     {
       "name": "Soft Skills",
-      "level": "Master",
       "icon": "fa-brands fa-uncharted",
       "keywords": [
         "Resourcefull",
@@ -138,20 +140,9 @@
     },
     {
       "name": "Hard Skills",
-      "level": "Master",
       "icon": "fa-brands fa-uncharted",
       "keywords": [
-        "Resourcefull",
-        "Team Builder",
-        "Innovative",
-        "Curious",
-        "Commited",
-        "Persistent",
-        "Competitive",
-        "Ambitious",
-        "Open-minded",
-        "Responsible",
-        "Problem-solving"
+        
       ]
     }
   ],

@@ -4,10 +4,9 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Tutusaus/HackUPC2024
+  - Tutusaus/UABTheHack
+  - Tutusaus/Weather-Balloon
+  - Tutusaus/Knot_Theory
+  - Tutusaus/4_en_Ratlla
+  - Tutusaus/Chess
