@@ -36,4 +36,4 @@ docker compose up
 
 Wait a few seconds and then connect to the server address that appears in the terminal.
 
-Note that you need to have docker and docker-compose installed and running in your system when using this commands.
+**Note that you need to have docker and docker-compose installed and running in your system when using this commands.**
