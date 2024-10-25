@@ -30,9 +30,9 @@ This is the source code of my personal website, which is a fork of the [al-folio
 In order to edit the content of the website locally (before pushing it to GitHub) just run the following commands in the root directory of the repository:
 
 ```bash
-   docker compose pull
-   docker compose up
-   ```
+docker compose pull
+docker compose up
+```
 
 Wait a few seconds and then connect to the server address that appears in the terminal.
 
