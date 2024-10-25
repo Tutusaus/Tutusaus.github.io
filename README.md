@@ -34,6 +34,6 @@ docker compose pull
 docker compose up
 ```
 
-Wait a few seconds and then connect to the server address that appears in the terminal.
+Wait a few seconds and then connect to the server address that appears in the terminal. In my case, I have to open a Google Chrome tab and look for http://localhost:8080/
 
 **Note that you need to have docker and docker-compose installed and running in your system when using this commands.**
