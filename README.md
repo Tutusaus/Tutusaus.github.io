@@ -15,6 +15,8 @@ Alternatively, follow these steps to access the website from the repository:
 
 ## About the Website
 
+The source code for my personal website is a fork of the [al-folio](https://github.com/alshedivat/al-folio) repository.
+
 This website is built using **GitHub Pages** and features:
 
 - A clean and responsive design.
@@ -23,17 +25,50 @@ This website is built using **GitHub Pages** and features:
 
 Feel free to explore the website and reach out if you have any questions or feedback!
 
-## Edit the Website
+## Reopening and Editing the Jekyll Project Locally with Docker
 
-This is the source code of my personal website, which is a fork of the [al-folio](https://github.com/alshedivat/al-folio) repository.
+To restart, edit, and view changes on your Jekyll project locally using Docker (before pushing it to GitHub) just follow this next instructions.
 
-In order to edit the content of the website locally (before pushing it to GitHub) just run the following commands in the root directory of the repository:
+---
 
-```bash
-docker compose pull
-docker compose up
-```
+### 1. Start the Docker Container
 
-Wait a few seconds and then connect to the server address that appears in the terminal. In my case, I have to open a Google Chrome tab and look for http://localhost:8080/
+To restart the Jekyll container and serve the site again:
+1. Open a terminal in your project folder (where the `docker-compose.yml` file is located).
+2. Run the following command:
 
-**Note that you need to have docker and docker-compose installed and running in your system when using this commands.**
+   ```bash
+   docker-compose up
+   ```
+
+   This will start the container and serve your Jekyll site with the options you configured previously. Once started, your site should be accessible at [http://localhost:4000](http://localhost:4000).
+
+   - **Optional:** To run the container in the background (so your terminal is free for other tasks), add the `-d` flag:
+
+     ```bash
+     docker-compose up -d
+     ```
+
+### 2. Edit Files and View Changes
+
+With the container running:
+- Edit your project files as needed in your code editor (like VSCode).
+- Once you save changes, Jekyll will detect the updates and reload the site automatically in the browser, thanks to `--livereload` and `--force_polling`.
+
+### 3. Stop the Container
+
+When you’re done working, stop the container by pressing `Ctrl+C` in the terminal (if it’s not detached) or by running:
+
+   ```bash
+   docker-compose down
+   ```
+
+---
+
+### Summary
+
+- Use `docker-compose up` to start the site and view it on [http://localhost:4000](http://localhost:4000).
+- Edit files to see changes with live reloading.
+- Stop the container with `docker-compose down` when finished.
+
+**Note that you need to have docker and docker-compose installed and running in your system when using this commands. Ruby is also recommended.**
