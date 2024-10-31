@@ -4,8 +4,8 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: Tutusaus_Guillem_CV.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: Tutusaus_GuillemCV.pdf
+description: This site is a more detailed version of my CV, you can find from basic information up to references and projects. You can scroll down to learn more or download the pdf version.
 toc:
   sidebar: left
 ---

@@ -8,7 +8,7 @@ You can visit the live website here: [**tutusaus.github.io**](https://tutusaus.g
 
 Alternatively, follow these steps to access the website from the repository:
 
-1. Navigate to the repository’s main page: [**Tutusaus/Tutusaus.github.io**](https://github.com/Tutusaus/Tutusaus.github.io).
+1. Navigate to the repository's main page: [**Tutusaus/Tutusaus.github.io**](https://github.com/Tutusaus/Tutusaus.github.io).
 2. Click on the **Deployments** tab located near the top of the repository page.
 3. Under the **Environments** section, click on the link to the **GitHub Pages deployment**.
 4. This will direct you to the live website.
@@ -57,7 +57,7 @@ With the container running:
 
 ### 3. Stop the Container
 
-When you’re done working, stop the container by pressing `Ctrl+C` in the terminal (if it’s not detached) or by running:
+When you're done working, stop the container by pressing `Ctrl+C` in the terminal (if it's not detached) or by running:
 
    ```bash
    docker-compose down
