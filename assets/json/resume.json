@@ -4,14 +4,14 @@
     "label": "Mathematician",
     "image": "assets/img/Orla.jpg",
     "email": "guillemtutusaus@gmail.com",
-    "phone": "+34 674 29 41 57",
+    "phone": "+34 674294157",
     "url": "https://tutusaus.github.io/",
-    "summary": "Mathematician with a keen interest in science and technology who likes to program and make projects in his free time.",
+    "summary": "Mathematician with a keen interest in science and technology who likes to programme and make projects in his free time.",
     "location": {
       "address": "C/Doctor Turró",
       "postalCode": "08224",
       "city": "Terrassa",
-      "countryCode": "ESP",
+      "countryCode": "+34",
       "region": "Catalonia"
     },
     "profiles": [
@@ -34,6 +34,11 @@
         "network": "Instagram",
         "username": "gtutusausalcaraz",
         "url": "https://www.instagram.com/gtutusausalcaraz/"
+      },
+      {
+        "network": "Stackoverflow",
+        "username": "Tutusaus",
+        "url": "https://stackoverflow.com/users/13435640/tutusaus"
       }
     ]
   },

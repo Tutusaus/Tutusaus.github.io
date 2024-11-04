@@ -9,15 +9,23 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Barcelona, Catalonia Mathematics graduate from Autonomous University of Barcelona</p>
+    <p>Barcelona, CAT. Mathematics graduate from UAB</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
-Hello there! I'm Guillem, a mathematics graduate from the Autonomous University of Barcelona. I grew up in Terrassa, a homely city thirty minutes away from Barcelona. I would consider myself an individual passionate about Science and Technology. Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey there! I’m <b>Guillem Tutusaus Alcaraz</b>, a mathematics graduate from [Universitat Autònoma de Barcelona](https://www.uab.cat/web/estudiar/ehea-degrees/study-plan/study-plan-and-timetables-1345467897115.html?param1=1216102918128). I grew up in [Terrassa](https://maps.app.goo.gl/V8egzKBS3s7TtUZq7), a homely city thirty minutes away from Barcelona.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I would consider myself an individual passionate about Science and Technology. From a young age I always wanted to understand how the planets moved around the sun and why is it that the underlying way to study this is by using calculus. Hence when I had the opportunity to study mathematics I didn't hesitate on accepting!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Besides my general coursework in <b>Mathematics</b>, throughout the years I've taken the initiative to self-study a significant portion of the <b>Computer Science</b> and <b>Physics</b> curriculum. Also, I have experience in teaching most subjects at a Highschool level as well as advanced programming notions.
+
+I enjoy tackling real-world challenges and have had the opportunity to participate in hackathons like [UABTheHack](https://www.linkedin.com/posts/guillemtutusausalcaraz_hackathon-uab-caixadenginyers-activity-7251669408786374658-Kcy6?utm_source=share&utm_medium=member_desktop) and [HackUPC](https://www.linkedin.com/posts/guillemtutusausalcaraz_hackupc-ai-heuristicfunctions-activity-7193337563602993152-wrL3?utm_source=share&utm_medium=member_desktop), where I worked on problems ranging from optimization in AI algorithms to real-time route planning. My project work is diverse, from developing AI for decision-making using C and heuristic methods to building a low-cost weather balloon capable of recording atmospheric data. Many of these projects are available on my [GitHub](https://github.com/Tutusaus).
+
+This is my [personal website](https://tutusaus.github.io/). By clicking on the different tabs above you’ll find a collection of my projects, reports, and anything that sparks my interest in math, engineering, and beyond. For a complete view of my professional experience, you can **[Download my CV](https://tutusaus.github.io/assets/pdf/Tutusaus_GuillemCV.pdf)** or navigate to the [CV](https://tutusaus.github.io/cv/) tab for a more complete version.
+
+Feel free to explore, and don’t hesitate to reach out if you’d like to connect! Bellow you can find a list of socials networks that I normally use. If you wish to reach me, please send me an [email](mailto:{{ site.email | encode_email }}) or send me a message on [WhatsApp](https://wa.me/{{ site.whatsapp_number }}) or [LinkedIn](https://www.linkedin.com/in/{{ site.linkedin_username }}). I'm always eager to connect with fellow enthusiasts and explore exciting collaborative opportunities..
+
+---
