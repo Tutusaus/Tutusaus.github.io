@@ -100,7 +100,7 @@
     {
       "institution": "Universitat Autònoma de Barcelona",
       "location": "Cerdanyola del Vallès",
-      "url": "https://www.uab.cat/",
+      "url": "https://www.uab.cat/web/estudiar/ehea-degrees/general-information/mathematics-1216708259085.html?param1=1216102918128",
       "area": "Mathematics",
       "studyType": "Bachelor's degree",
       "startDate": "2018-09",
@@ -113,7 +113,7 @@
     {
       "name": "Microsoft Excel Advanced",
       "date": "2024-07-12",
-      "issuer": "Confederació Empresarial Comarcal de Terrassa (CECOT)",
+      "issuer": "Confederació Empresarial Comarcal de Terrassa (CECOT), ",
       "url": "https://institucional.cecot.org/",
       "icon": "fa-solid fa-clipboard-check"
     },
@@ -126,6 +126,37 @@
     }
   ],
   "skills": [
+    {
+      "name": "Hard Skills",
+      "icon": "fa-brands fa-uncharted",
+      "keywords": [
+        "<b>Technical and Industry Knowledge</b>:",
+        "Programming",
+        "Mathematical Modelling of Dynamical systems",
+        "Numerical Analysis",
+        "Time Series in Stochastic processes",
+        "Financial Engineering",
+        "Fast Fourier Transform in Harmonic analysis",
+        "<b>Programming languages</b>:",
+        "C | C++ | Python | LaTeX | Maple | Java | R | SQL",
+        "<b>Libraries and Frameworks</b>:",
+        "Numpy",
+        "Matplotlib",
+        "Make",
+        "CMake",
+        "Pandas",
+        "Pygame",
+        "<b>Tools and Platforms</b>:",
+        "Microsoft Excel",
+        "Microsoft Powerpoint",
+        "VSCode",
+        "Git",
+        "Jupyter Notebook",
+        "SageMath",
+        "Arduino",
+        "IBM SPSS"
+      ]
+    },
     {
       "name": "Soft Skills",
       "icon": "fa-brands fa-uncharted",
@@ -142,13 +173,6 @@
         "Responsible",
         "Problem-solving"
       ]
-    },
-    {
-      "name": "Hard Skills",
-      "icon": "fa-brands fa-uncharted",
-      "keywords": [
-        
-      ]
     }
   ],
   "languages": [
@@ -160,17 +184,17 @@
     {
       "language": "Spanish",
       "fluency": "Native Speaker",
-      "icon": ""
+      "icon": "fa-solid fa-language"
     },
     {
       "language": "Catalan",
       "fluency": "Native Speaker",
-      "icon": ""
+      "icon": "fa-solid fa-language"
     },
     {
       "language": "French",
       "fluency": "Beginner",
-      "icon": ""
+      "icon": "fa-solid fa-language"
     }
   ],
   "interests": [

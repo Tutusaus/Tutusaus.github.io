@@ -22,7 +22,7 @@ profiles:
     content: about_SerraIsabel.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>C1/104, Monday 10am to 12am</p>
+      <p>isabel.serra@uab.cat</p>
+      <p>08193, Cerdanyola del Vallès</p>
 ---

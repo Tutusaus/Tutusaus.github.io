@@ -4,9 +4,9 @@ github_users:
 repo_description_lines_max: 3
 
 github_repos:
-  - Tutusaus/HackUPC2024
+  - Tutusaus/Tutusaus.github.io
   - Tutusaus/UABTheHack
-  - Tutusaus/Weather-Balloon
+  - Tutusaus/3d_animation
+  - Tutusaus/Excel
+  - Tutusaus/HackUPC2024
   - Tutusaus/Knot_Theory
-  - Tutusaus/4_en_Ratlla
-  - Tutusaus/Chess

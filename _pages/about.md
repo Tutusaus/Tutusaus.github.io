@@ -26,6 +26,8 @@ I enjoy tackling real-world challenges and have had the opportunity to participa
 
 This is my [personal website](https://tutusaus.github.io/). By clicking on the different tabs above you’ll find a collection of my projects, reports, and anything that sparks my interest in math, engineering, and beyond. For a complete view of my professional experience, you can **[Download my CV](https://tutusaus.github.io/assets/pdf/Tutusaus_GuillemCV.pdf)** or navigate to the [CV](https://tutusaus.github.io/cv/) tab for a more complete version.
 
-Feel free to explore, and don’t hesitate to reach out if you’d like to connect! Bellow you can find a list of socials networks that I normally use. If you wish to reach me, please send me an [email](mailto:{{ site.email | encode_email }}) or send me a message on [WhatsApp](https://wa.me/{{ site.whatsapp_number }}) or [LinkedIn](https://www.linkedin.com/in/{{ site.linkedin_username }}). I'm always eager to connect with fellow enthusiasts and explore exciting collaborative opportunities..
+Feel free to explore, and don’t hesitate to reach out if you’d like to connect! Bellow you can find a list of socials networks that I normally use. If you wish to reach me, please send me an [email](mailto:{{ site.email | encode_email }}) or send me a message on [WhatsApp](https://wa.me/{{ site.whatsapp_number }}) or [LinkedIn](https://www.linkedin.com/in/{{ site.linkedin_username }}). I'm always eager to connect with fellow enthusiasts and explore exciting collaborative opportunities.
+
+**WORK IN PROGRESS. THIS WEBSITE IS STILL IN DEVELOPMENT** <i class="fa-solid fa-wrench"></i>.
 
 ---
