@@ -130,23 +130,23 @@
       "name": "Hard Skills",
       "icon": "fa-brands fa-uncharted",
       "keywords": [
-        "<b>Technical and Industry Knowledge</b>:",
+        "<b><u>Technical and Industry Knowledge</u></b>:",
         "Programming",
         "Mathematical Modelling of Dynamical systems",
         "Numerical Analysis",
         "Time Series in Stochastic processes",
         "Financial Engineering",
         "Fast Fourier Transform in Harmonic analysis",
-        "<b>Programming languages</b>:",
+        "<b><u>Programming languages</u></b>:",
         "C | C++ | Python | LaTeX | Maple | Java | R | SQL",
-        "<b>Libraries and Frameworks</b>:",
+        "<b><u>Libraries and Frameworks</u></b>:",
         "Numpy",
         "Matplotlib",
         "Make",
         "CMake",
         "Pandas",
         "Pygame",
-        "<b>Tools and Platforms</b>:",
+        "<b><u>Tools and Platforms</u></b>:",
         "Microsoft Excel",
         "Microsoft Powerpoint",
         "VSCode",
@@ -199,15 +199,51 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Rockets",
+      "icon": "fa-solid fa-rocket",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "ISP",
+        "Gyroscope",
+        "Trajectory",
+        "Burnout",
+        "RCS",
+        "Booster"
+      ]
+    },
+    {
+      "name": "Planes",
+      "icon": "fa-solid fa-plane",
+      "keywords": [
+        "Vortex",
+        "Crosswind",
+        "Lift",
+        "Yaw",
+        "Pitch",
+        "Roll"
+      ]
+    },
+    {
+      "name": "Hiking",
+      "icon": "fa-solid fa-mountain-sun",
+      "keywords": [
+        "Traverse",
+        "Bivouac",
+        "Crampons",
+        "Campsite",
+        "Descent",
+        "Trail"
+      ]
+    },
+    {
+      "name": "Rockets",
+      "icon": "fa-solid fa-rocket",
+      "keywords": [
+        "ISP",
+        "Gyroscope",
+        "Trajectory",
+        "Burnout",
+        "RCS",
+        "Booster"
       ]
     }
   ],

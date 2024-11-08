@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of my cool projects. Feel free to download and utilize my projects for any purpose you wish. However, I would greatly appreciate it if you could adhere to the project's license when using them. Since this page was created after some of my projects took place, I will try to update it as fast as possible.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
