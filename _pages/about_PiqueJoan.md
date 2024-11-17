@@ -1,10 +1,9 @@
-# Joan Porti Piqué <i class="ai ai-preregistered"></i>
+# Joan Porti Piqué <i class="fa-solid fa-building-columns"></i>
 
 - **Position**: Full-Professor of the Mathematics department.
 - **Profile**: [Joan Porti Piqué](https://portalrecerca.uab.cat/en/persons/joan-porti-pique-3)
 - **Introduction**: Joan Portí Piqué is a full professor at the Universitat Autònoma de Barcelona, specializing in geometry, particularly in geometric structures in low-dimensional manifolds and geometric group theory. 
-He earned his PhD in Mathematics from the Université Paul Sabatier in 1994 and has since contributed significantly to the field through various publications, including research on the geometrization of 3-dimensional orbifolds. 
-Notably, he served as the senior thesis director for my academic project, where his guidance and expertise were invaluable. 
+He earned his PhD in Mathematics from the Université Paul Sabatier in 1994 and has since contributed significantly to the field through various publications, including research on the geometrization of 3-dimensional orbifolds. He served as my senior [thesis](https://github.com/Tutusaus/Knot_Theory) director, where his guidance and expertise were invaluable. 
 Additionally, he has received the Icrea Academia Prize and is actively involved in scientific advisory roles and editorial responsibilities.
 
 - **Additional Links**:

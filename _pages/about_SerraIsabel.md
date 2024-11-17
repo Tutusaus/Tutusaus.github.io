@@ -1,5 +1,5 @@
 
-# Isabel Serra Mochales <i class="ai ai-preregistered"></i>
+# Isabel Serra Mochales <i class="fa-solid fa-building-columns"></i>
 
 - **Position**: President of the Catalan Statistical Society, Professor at UAB and Researcher at Barcelona Supercomputing Center.
 - **Profile**: [Isabel Serra Mochales - SEA](https://portalrecerca.uab.cat/ca/persons/isabel-serra-mochales)

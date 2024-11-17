@@ -142,10 +142,10 @@
         "<b><u>Libraries and Frameworks</u></b>:",
         "Numpy",
         "Matplotlib",
-        "Make",
-        "CMake",
         "Pandas",
         "Pygame",
+        "Make",
+        "CMake",
         "<b><u>Tools and Platforms</u></b>:",
         "Microsoft Excel",
         "Microsoft Powerpoint",
@@ -154,7 +154,14 @@
         "Jupyter Notebook",
         "SageMath",
         "Arduino",
-        "IBM SPSS"
+        "IBM SPSS",
+        "RStudio",
+        "MySQL",
+        "TeXstudio",
+        "CodeBlocks",
+        "Docker Desktop",
+        "Maple",
+        "Blender"
       ]
     },
     {
@@ -249,14 +256,19 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Professor Natàlia Castellana Vila",
+      "icon": "fa-solid fa-cube",
+      "reference": "Professor Castellana has been my teacher in General Topology and Modellization Methods, sharing her expertise and inspiring students in these areas."
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Professor Isabel Serra Mochales",
+      "icon": "fa-solid fa-chart-simple",
+      "reference": "Professor Serra Mochales has taught me courses in Statistics, sharing her expertise and guiding students in foundational statistical concepts and methods."
+    },
+    {
+      "name": "Professor Joan Porti Piqué",
+      "icon": "fa-solid fa-book",
+      "reference": "Professor Porti has served as my senior thesis director, where his guidance and knowledge about knots theory were invaluable."
     }
   ],
   "projects": [
