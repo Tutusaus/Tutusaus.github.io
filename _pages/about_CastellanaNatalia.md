@@ -1,5 +1,5 @@
 
-# Natàlia Castellana Vila <i class="ai ai-preregistered"></i>
+# Natàlia Castellana Vila <i class="fa-solid fa-building-columns"></i>
 
 - **Position**: Vice-dean of the Faculty of Sciences of the Autonomous University of Barcelona (UAB) and full-Professor of the Mathematics department.
 - **Profile**: [Natàlia Castellana Vila](https://portalrecerca.uab.cat/en/persons/natalia-castellana-vila-3)
