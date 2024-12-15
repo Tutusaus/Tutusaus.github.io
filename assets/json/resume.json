@@ -76,16 +76,6 @@
   ],
   "volunteer": [
     {
-      "organization": "Fundació Parc Aeronàutic de Catalunya",
-      "location": "Sabadell, Spain",
-      "position": "Aviation Exhibit Guide",
-      "url": "https://www.fpac.org/fpac/",
-      "startDate": "2024-10-30",
-      "endDate": "-",
-      "summary": "Responsible for providing visitors with informative and engaging tours of the airport's aviation-themed exhibition. Explain the history, technology, and significance of the planes on display, answer questions, and offer insights into the evolution of aviation.",
-      "highlights": ["Aviation", "Aeronautics"]
-    },
-    {
       "organization": "International Council for Industrial and Applied Mathematics",
       "location": "Valencia, Spain",
       "position": "Lecture Coordinator",
@@ -113,14 +103,14 @@
     {
       "name": "Microsoft Excel Advanced",
       "date": "2024-07-12",
-      "issuer": "Confederació Empresarial Comarcal de Terrassa (CECOT), ",
-      "url": "https://institucional.cecot.org/",
+      "issuer": "Confederació Empresarial Comarcal de Terrassa (CECOT), Credential ID: MR20230159",
+      "url": "https://www.linkedin.com/posts/guillemtutusausalcaraz_excel-dataanalysis-professionaldevelopment-activity-7220547951297781761-PvR7?utm_source=share&utm_medium=member_desktop",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Cambridge Assessment English Advanced C1",
       "date": "2019-02-01",
-      "issuer": "Cambridge University",
+      "issuer": "Cambridge University Press & Assessment English, Credential ID: 18CES4390247",
       "url": "https://www.cambridgeenglish.org/why-choose-us/higher-education-institutions/how-to-verify-results-online/",
       "icon": "fa-solid fa-clipboard-check"
     }
@@ -206,52 +196,16 @@
   ],
   "interests": [
     {
-      "name": "Rockets",
-      "icon": "fa-solid fa-rocket",
-      "keywords": [
-        "ISP",
-        "Gyroscope",
-        "Trajectory",
-        "Burnout",
-        "RCS",
-        "Booster"
-      ]
-    },
-    {
-      "name": "Planes",
-      "icon": "fa-solid fa-plane",
-      "keywords": [
-        "Vortex",
-        "Crosswind",
-        "Lift",
-        "Yaw",
-        "Pitch",
-        "Roll"
-      ]
-    },
-    {
       "name": "Hiking",
-      "icon": "fa-solid fa-mountain-sun",
-      "keywords": [
-        "Traverse",
-        "Bivouac",
-        "Crampons",
-        "Campsite",
-        "Descent",
-        "Trail"
-      ]
+      "icon": "fa-solid fa-route"
     },
     {
-      "name": "Rockets",
-      "icon": "fa-solid fa-rocket",
-      "keywords": [
-        "ISP",
-        "Gyroscope",
-        "Trajectory",
-        "Burnout",
-        "RCS",
-        "Booster"
-      ]
+      "name": "Climbing",
+      "icon": "fa-solid fa-mountain"
+    },
+    {
+      "name": "Programming",
+      "icon": "fa-brands fa-python"
     }
   ],
   "references": [
@@ -273,12 +227,28 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Knot Theory and the Jones Polynomial",
+      "summary": "A knot is a closed loop in three-dimensional space, similar to a piece of string whose ends are joined together, so it cannot be untied without cutting. Knot theory aims to understand and classify these knots mathematically.",
+      "highlights": ["Knot invariant", "Knot equivalence"],
+      "startDate": "2024-02",
+      "endDate": "2024-06",
+      "url": "https://github.com/Tutusaus/Knot_Theory"
+    },
+    {
+      "name": "AI for Connect-4 Game",
+      "summary": "C implementation of the classic Connect 4 board game played on an 8x8 grid. The game features a single-player mode where you compete against an AI opponent. The AI uses a minimax algorithm with alpha-beta pruning to optimize its moves, providing a challenging experience.",
+      "highlights": ["Minimax algorithm", "Heuristic function"],
+      "startDate": "2022-09",
+      "endDate": "2022-11",
+      "url": "https://github.com/Tutusaus/4_en_Ratlla"
+    },
+    {
+      "name": "Construction of a Low-Cost Weather Balloon",
+      "summary": "Low-Cost Stratospheric Probe project, which aims to build a high-altitude weather balloon equipped with sensors and cameras, utilizing open-source hardware and software solutions whilst staying on budget.",
+      "highlights": ["Arduino"],
+      "startDate": "2017-06",
+      "endDate": "2018-09",
+      "url": "https://github.com/Tutusaus/Weather-Balloon"
     }
   ]
 }
