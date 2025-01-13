@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Barcelona, CAT. Mathematics graduate from UAB</p>
+    <p>Between Pica d'Estats (3143m) and Punta de Gabarró (3115m) on the Catalan Pyrenees</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
