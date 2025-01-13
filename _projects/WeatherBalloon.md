@@ -84,21 +84,21 @@ The [GitHub repository](https://github.com/Tutusaus/Weather-Balloon) contains al
 ---------------------------------------------------------------------------------------------
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE]() file for details.   
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Tutusaus/Weather-Balloon/blob/master/LICENSE) file for details.   
 
 ---------------------------------------------------------------------------------------------
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/soldat.jpg" title="welding plate" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ArduinoGSM.jpg" title="Arduino Uno and GSM module" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/placa.jpg" title="Arduino Nano and SD card module" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Some images of the hardware used in the project.
 </div>

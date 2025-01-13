@@ -8,29 +8,6 @@ category: work
 giscus_comments: true
 ---
 
-# 📊 AI-Powered Connect Four Game in C
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="https://github.com/user-attachments/assets/fca46432-0861-42bd-b591-cf135e3a7a5d" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption of one of the games I played against the artificial intelligence.
-</div>
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
-
----------------------------------------------------------------------------------------------
-
 ## Introduction
 This project is a terminal-based strategy game where you compete against a computer opponent on an 8x8 grid. This is a copy of the popular Connect Four Game. The AI uses a sophisticated **minimax algorithm** with **alpha-beta pruning** to simulate challenging gameplay, ensuring a competitive experience every time you play.
 
@@ -117,19 +94,13 @@ Contributions are welcome! If you would like to contribute to this project, plea
 ---------------------------------------------------------------------------------------------
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Tutusaus/4_en_Ratlla/tree/master?tab=MIT-1-ov-file) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Tutusaus/4_en_Ratlla/blob/master/LICENSE) file for details.
 
 ---------------------------------------------------------------------------------------------
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="https://github.com/user-attachments/assets/fca46432-0861-42bd-b591-cf135e3a7a5d" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

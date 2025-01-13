@@ -4,7 +4,9 @@ title: Geometry
 description: A Geogebra clone with an original mathematics engine
 img: assets/img/geogebra-export-crop.png
 importance: 1
+#redirect: http://youtube.com
 category: work
+giscus_comments: false
 related_publications: false
 ---
 
