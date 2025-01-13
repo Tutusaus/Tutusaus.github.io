@@ -16,7 +16,7 @@ The main objective was to design and deploy a high-altitude weather balloon equi
 
 The document cited is written in Catalan and I am currently translating it.
 
-The [GitHub repository](https://github.com/Tutusaus/Weather-Balloon) contains the software, scripts, images, interviews and everything that I needed for the project.
+The [GitHub repository](https://github.com/Tutusaus/Weather-Balloon) contains all the software, scripts, images, interviews and everything that I used for the project.
 
 ---------------------------------------------------------------------------------------------
 
@@ -80,3 +80,25 @@ The [GitHub repository](https://github.com/Tutusaus/Weather-Balloon) contains th
    git clone https://github.com/Tutusaus/Weather-Balloon.git
    cd Weather-Balloon
    ```
+
+---------------------------------------------------------------------------------------------
+
+## License
+This project is licensed under the MIT License - see the [LICENSE]() file for details.   
+
+---------------------------------------------------------------------------------------------
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+</div>
