@@ -5,16 +5,19 @@ description: A Geogebra clone with an original mathematics engine
 img: assets/img/geogebra-export-crop.png
 importance: 1
 #redirect: http://youtube.com
-category: work
+category: fun
 giscus_comments: false
 related_publications: false
 ---
 
+### **Introduction**
 [GeoGebra](https://www.geogebra.org/3d?lang=es) is a widely used, free software application that combines geometry, algebra, calculus, and other branches of mathematics into a single, interactive platform. It is particularly popular in educational settings for teaching and learning mathematics, as well as for exploring mathematical concepts visually and dynamically. 
 
 The **Geometry** project is a Python-based graphical application mainly built using **Pygame** and **Numpy**. Its goal is to create a 3D interactive geometric exploration tool inspired by GeoGebra. The tool features an original mathematics engine to handle advanced geometric transformations, projections, and object manipulations.
 
-#### **Main Features**
+---
+
+### **Main Features**
 1. **Interactive Visualization**:
    - A user-friendly Pygame interface with a resizable canvas for geometric visualization.
    - An interactive coordinate axis that can respond to user actions like mouse clicks and drags.
@@ -37,7 +40,9 @@ The **Geometry** project is a Python-based graphical application mainly built us
 5. **Customizable Geometry**:
    - Users can define, manipulate, and observe geometric entities like axes and vectors, allowing hands-on exploration of mathematical concepts.
 
-#### **Functionalities Available**
+---
+
+### **Functionalities Available**
 - **Axis Manipulation**:
   - The 3D coordinate axis is rendered dynamically. Users can click and drag to reposition it within the viewport.
 - **Projection to 2D**:
@@ -47,7 +52,9 @@ The **Geometry** project is a Python-based graphical application mainly built us
 - **Event Handling**:
   - Responds to mouse clicks and movement for interactive geometry exploration.
 
-#### **Planned Enhancements**
+---
+
+### **Planned Enhancements**
 1. **Enhanced Shape Library**:
    - Add common geometric objects like circles, polygons, and curves for visualization.
 2. **Dynamic Inputs**:
@@ -59,7 +66,9 @@ The **Geometry** project is a Python-based graphical application mainly built us
 5. **3D Object Rendering**:
    - Extend the engine to render 3D objects with depth, lighting, and perspective.
 
-#### **Technological Highlights**
+---
+
+### **Technological Highlights**
 - **Python + Pygame**:
   - Delivers a simple yet powerful interactive graphics framework.
 - **Numpy Integration**:
@@ -67,20 +76,40 @@ The **Geometry** project is a Python-based graphical application mainly built us
 - **Object-Oriented Programming**:
   - Ensures modularity and extensibility.
 
-#### **Project Repository**
-- [GitHub Repository](https://github.com/Tutusaus/Geometry) provides access to the source code, detailed documentation, and examples.
+---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+### **How to Download the Project from GitHub**
+- [GitHub Repository](https://github.com/Tutusaus/Geometry) provides access to the source code.
+
+To download the full project, follow one of these two steps:
+
+#### **1. Clone Using Git (Recommended)**
+To clone the repository using Git, follow these steps:
+
+1. Open a terminal or command prompt.
+2. Ensure you have Git installed. If not, download and install it from [git-scm.com](https://git-scm.com/).
+3. Run the following command:
+
+   ```sh
+   git clone https://github.com/Tutusaus/Geometry.git
+   ```
+
+4. Navigate into the cloned directory:
+
+   ```sh
+   cd Geometry
+   ```
+
+This will create a local copy of the repository on your computer.
+
+#### **2. Download as a ZIP File**
+If you prefer to download the repository as a ZIP file, follow these steps:
+
+1. Go to the repository page: [Geometry Repository](https://github.com/Tutusaus/Geometry)
+2. Click the green **Code** button.
+3. Select **Download ZIP**.
+4. Extract the downloaded ZIP file to access the files.
+
+---
+
+### **Images**

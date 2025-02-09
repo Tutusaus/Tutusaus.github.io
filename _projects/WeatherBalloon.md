@@ -8,7 +8,7 @@ category: work
 giscus_comments: true
 ---
 
-## Overview
+### **Introduction**
 
 This project was conducted when I was 16 years old. During that time, I was in high-school and I had to come up with an idea of a project which would be made during that summer. The previous years I had been developing a strong foundation in Electronics and Computer Science by taking different subjects. So I knew that I wanted to make something related to that. At the end, inspired by a [television show](https://www.3cat.cat/3cat/titol/noticia/3029221/) and by a group of engineers at *Universitat Politècnica de Catalunya UPC*, I decided to make a **Low-cost Weather Balloon**.
 
@@ -20,7 +20,7 @@ The [GitHub repository](https://github.com/Tutusaus/Weather-Balloon) contains al
 
 ---------------------------------------------------------------------------------------------
 
-## Features
+### **Features**
 - **Arduino-Based Sensor Suite**:
   - Collects temperature, humidity, and pressure data using DHT11 and BMP180 sensors.
   - Measures external and internal temperatures with DS18B20 sensors.
@@ -40,7 +40,7 @@ The [GitHub repository](https://github.com/Tutusaus/Weather-Balloon) contains al
 
 ---------------------------------------------------------------------------------------------
 
-## Hardware Requirements
+### **Hardware Requirements**
 - **Microcontrollers**:
   - Arduino Uno or Arduino Nano
 - **Sensors**:
@@ -60,7 +60,7 @@ The [GitHub repository](https://github.com/Tutusaus/Weather-Balloon) contains al
 
 ---------------------------------------------------------------------------------------------
 
-## Software Requirements
+### **Software Requirements**
 - **Arduino IDE**: [Download here](https://www.arduino.cc/en/software)
 - **Arduino Libraries**:
   - `Adafruit GPS`
@@ -74,7 +74,7 @@ The [GitHub repository](https://github.com/Tutusaus/Weather-Balloon) contains al
 
 ---------------------------------------------------------------------------------------------
 
-## Setup Instructions
+### **Setup Instructions**
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/Tutusaus/Weather-Balloon.git
@@ -83,14 +83,15 @@ The [GitHub repository](https://github.com/Tutusaus/Weather-Balloon) contains al
 
 ---------------------------------------------------------------------------------------------
 
-## License
+### **License**
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Tutusaus/Weather-Balloon/blob/master/LICENSE) file for details.   
 
 ---------------------------------------------------------------------------------------------
 
+### **Images**
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/soldat.jpg" title="welding plate" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/soldat.jpg" title="Welding plate" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/ArduinoGSM.jpg" title="Arduino Uno and GSM module" class="img-fluid rounded z-depth-1" %}
@@ -100,5 +101,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
     </div>
 </div>
 <div class="caption">
-    Some images of the hardware used in the project.
+    Some of the hardware used in the project.
 </div>

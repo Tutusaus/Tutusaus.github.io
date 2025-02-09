@@ -2,12 +2,12 @@
 layout: page
 permalink: /images/
 title: Images
-description: This section is a dedicated list of images that are find are interesting
+description: This section is
 nav: true
 nav_order: 9
 ---
 
-lipsum
+sd
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
