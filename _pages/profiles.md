@@ -3,7 +3,7 @@ layout: profiles
 permalink: /people/
 title: People
 description: This is a list of people with which I work or have worked in the past. This page helps to get to know them better as well as explain some of their work. If you wish to contact any of my references, please seek my permission first. I appreciate your understanding in maintaining their privacy.
-nav: true
+nav: false
 nav_order: 7
 
 profiles:
