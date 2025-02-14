@@ -15,7 +15,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 #   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: guillem, tutusaus, alcaraz, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: "atom-solid.ico" # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: "g-light.ico" # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://Tutusaus.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -118,7 +118,7 @@ contact_note: >
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
-
+ 
 # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
 # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
 google_analytics: G-F9KKNBT0KK # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
