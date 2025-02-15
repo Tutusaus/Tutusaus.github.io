@@ -13,7 +13,6 @@
       <script defer src="{{ '/assets/js/zoom.js' | relative_url | bust_file_cache }}"></script>
     {% endif %}
     {% include scripts/jquery.liquid %}
-    {% include scripts/analytics.liquid %}
     {% include scripts/mathjax.liquid %}
     <!-- Distill js -->
     <script src="{{ '/assets/js/distillpub/template.v2.js' | relative_url }}"></script>
@@ -120,7 +119,7 @@
     <!-- Footer -->
     {% include footer.liquid %}
     {% include scripts/bootstrap.liquid %}
-    
+    {% include scripts/analytics.liquid %}
     {% include scripts/progressBar.liquid %}
     {% include scripts/back_to_top.liquid %}
     {% include scripts/search.liquid %}
