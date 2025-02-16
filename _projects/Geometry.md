@@ -10,7 +10,6 @@ giscus_comments: false
 related_publications: false
 ---
 
-### **Introduction**
 [GeoGebra](https://www.geogebra.org/3d?lang=es) is a widely used, free software application that combines geometry, algebra, calculus, and other branches of mathematics into a single, interactive platform. It is particularly popular in educational settings for teaching and learning mathematics, as well as for exploring mathematical concepts visually and dynamically. 
 
 The **Geometry** project is a Python-based graphical application mainly built using **Pygame** and **Numpy**. Its goal is to create a 3D interactive geometric exploration tool inspired by GeoGebra. The tool features an original mathematics engine to handle advanced geometric transformations, projections, and object manipulations.

@@ -3,18 +3,14 @@ layout: page
 title: Weather Balloon
 description: Construction of a Low-Cost Weather Balloon using Arduino
 img: assets/img/WeatherBalloon.jpg
-importance: 1
+importance: 2
 category: work
 giscus_comments: true
 ---
 
-### **Introduction**
-
 This project was conducted when I was 16 years old. During that time, I was in high-school and I had to come up with an idea of a project which would be made during that summer. The previous years I had been developing a strong foundation in Electronics and Computer Science by taking different subjects. So I knew that I wanted to make something related to that. At the end, inspired by a [television show](https://www.3cat.cat/3cat/titol/noticia/3029221/) and by a group of engineers at *Universitat Politècnica de Catalunya UPC*, I decided to make a **Low-cost Weather Balloon**.
 
 The main objective was to design and deploy a high-altitude weather balloon equipped with sensors and cameras using affordable, open-source hardware and software solutions that would capture atmospheric data and images at altitudes up to 30 km for post-flight analysis. This [PDF](http://tutusaus.github.io/assets/pdf/LowCostWeatherBalloon.pdf) is the report that I had to deliver to my teacher so I could be evaluated. This, guides you as to what steps I took in order to finish such a project, taking into account expenses, bureaucratic procedures as well as other things which are sometimes overlooked. It took me all summer to achieve what ended up being as one of the best projects I have ever done.
-
-The document cited is written in Catalan and I am currently translating it.
 
 The [GitHub repository](https://github.com/Tutusaus/Weather-Balloon) contains all the software, scripts, images, interviews and everything that I used for the project.
 

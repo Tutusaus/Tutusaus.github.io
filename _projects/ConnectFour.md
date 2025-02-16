@@ -3,12 +3,11 @@ layout: page
 title: Connect Four
 description: AI powered Connect Four game. Play this popular game against a decent opponent. Will you beat it?
 img: assets/img/ConnectFour.png
-importance: 2
+importance: 3
 category: work
 giscus_comments: true
 ---
 
-### **Introduction**
 This project is a terminal-based strategy game where you compete against a computer opponent on an 8x8 grid. This is a copy of the popular Connect Four Game. The AI uses a sophisticated **minimax algorithm** with **alpha-beta pruning** to simulate challenging gameplay, ensuring a competitive experience every time you play.
 
 ---------------------------------------------------------------------------------------------
